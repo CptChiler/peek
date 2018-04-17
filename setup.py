@@ -8,6 +8,7 @@ setup(
         'biopython>=1.70',
         'numpy>=1.14.1',
         'tqdm>=4.7.2',
+        'mappy',
     ],
     entry_points={
         'console_scripts': [
